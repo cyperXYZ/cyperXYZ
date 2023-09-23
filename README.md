@@ -1,3 +1,12 @@
+<head>
+  <link href="" rel="stylesheet">
+</head>
+
+
+<body>
+
+
+
 <div id="About">
   <h1>About</h1>
   <p>Hello I am Cyper, I am a game developer with basic skills in Python, Lua, HTML and CSS.</p>
@@ -11,3 +20,6 @@
     <li> <a href="">Website</a> </li>
   </ul>
 </div>
+
+  
+</body>
