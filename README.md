@@ -1,9 +1,3 @@
-<head>
-  <style>
-  @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Silkscreen&display=swap');
-    h1: font-family: 'Handjet', cursive;
-</style>
-</head>
 
 
 <body>
